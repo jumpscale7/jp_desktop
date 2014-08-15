@@ -1,0 +1,21 @@
+jp.domain=jsdesktop
+jp.name=xrdp
+jp.version=0.7
+jp.autobuild=0
+
+jp.export=0
+
+#supported platforms linux, linux32, linux64, win32, win64, win
+jp.supportedplatforms=ubuntu64
+
+jp.description=!(../description.wiki)
+
+jp.buildnr=4
+
+jp.taskletschecksum=
+jp.descrchecksum=
+jp.hrdchecksum=
+
+##dependencies
+#jp.dependency.1.name = xfce4desktop
+#jp.dependency.1.domain = jsdesktop
