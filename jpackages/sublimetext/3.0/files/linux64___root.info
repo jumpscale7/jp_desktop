@@ -1,4 +1,4 @@
-1ef1308a4c3f16ea1eb66fc29e3a08bb
+eca3592ce6be0b27cf09b588da8946f3
 f0402b443f103fdd78541a5afaf24e2c|opt/sublimetext/Icon/128x128/sublime_text.png
 ec9d6de9fe5c7d77238c574903061d46|opt/sublimetext/Icon/16x16/sublime_text.png
 5653f0b0f119c66a18c8afd51654badf|opt/sublimetext/Icon/256x256/sublime_text.png
@@ -59,6 +59,7 @@ ca2d212fddc711077c1478974ae87497|opt/sublimetext/Pristine Packages/XML.sublime-p
 1a735cf4d3317fcacfcb8f563142e4ba|opt/sublimetext/lib/python26.zip
 063978da3fb756e8fddfba866a662218|opt/sublimetext/sublime_plugin.py
 0e30bb9f52a418deed94a6d85a1d50d1|opt/sublimetext/sublime_text
+ffc7adcb7190ae7c0b71eeeac063a746|root/.config/sublime-text-2/Installed Packages/Package Control.sublime-package
 d946f61dcf1be66cb48a6843fdd9cfcb|root/.config/sublime-text-2/Packages/ASP/ASP.tmLanguage
 21c199f1b67b43b4689aaffc7936ea4d|root/.config/sublime-text-2/Packages/ASP/ASP.tmLanguage.cache
 371956ef5da1a30de037e02f68e30395|root/.config/sublime-text-2/Packages/ASP/HTML-ASP.tmLanguage
@@ -1547,6 +1548,7 @@ f2933f2e23beedbe2724977605cb6c28|root/.config/sublime-text-2/Pristine Packages/M
 fd7ab14787d33106bd313a0d5ffccc0a|root/.config/sublime-text-2/Pristine Packages/OCaml.sublime-package
 ea2c2126ec5263811212f0999925efde|root/.config/sublime-text-2/Pristine Packages/Objective-C.sublime-package
 2f68f9a30c0fbd2906af0c8e5a23f1ed|root/.config/sublime-text-2/Pristine Packages/PHP.sublime-package
+ffc7adcb7190ae7c0b71eeeac063a746|root/.config/sublime-text-2/Pristine Packages/Package Control.sublime-package
 042a6a5ec459bc7079abbabdbe68c8e6|root/.config/sublime-text-2/Pristine Packages/Perl.sublime-package
 b30b8f3ca5e9bbc2483a60afe2809907|root/.config/sublime-text-2/Pristine Packages/Python.sublime-package
 b5850d92be035da4f835f6dc24d14103|root/.config/sublime-text-2/Pristine Packages/R.sublime-package
