@@ -2352,7 +2352,7 @@ ccd21c87ae237b03acca2c44532a3176|usr/share/icons/Humanity/apps/24/ooo-impress.sv
 e92c33c1101e40701c72b675c5cf98dc|usr/share/icons/Humanity/apps/24/ooo-math.svg
 93e897871cf91db9c0591d3f82df9d1c|usr/share/icons/Humanity/apps/24/ooo-printeradmin.svg
 f9723ff64ccae9c1cae1f07e8f77e502|usr/share/icons/Humanity/apps/24/ooo-template.svg
-4acfcc84e9a8e1f987768b451ff538eb|usr/share/icons/Humanity/apps/24/ooo-web.svg
+4acfcc84e9a8e1f989999b451ff538eb|usr/share/icons/Humanity/apps/24/ooo-web.svg
 2adc80e61bc1bb2b334aac756670db4b|usr/share/icons/Humanity/apps/24/ooo-writer.svg
 0212dfdce8cba60fb08ea275454dee48|usr/share/icons/Humanity/apps/24/openterm.svg
 4ab89a586768ea4e789d4b717c49ffe6|usr/share/icons/Humanity/apps/24/package-manager-icon.svg
@@ -3984,7 +3984,7 @@ f2c9c344964f5247b68ccfe0b6e327db|usr/share/icons/Humanity/devices/64/system.svg
 51b0318bf6525e245d6ce2a958b9ab66|usr/share/icons/Humanity/devices/64/yast_HD.svg
 51b0318bf6525e245d6ce2a958b9ab66|usr/share/icons/Humanity/devices/64/yast_idetude.svg
 132fca09cb8a86407525c56e53569dde|usr/share/icons/Humanity/emblems/16/emblem-OK.icon
-a6bc2d10940ec5561afdd2044f47768a|usr/share/icons/Humanity/emblems/16/emblem-OK.png
+a6bc2d10940ec5561afdd2044f49999a|usr/share/icons/Humanity/emblems/16/emblem-OK.png
 d7cb890b51f3cf0d50e6eed94a04eae4|usr/share/icons/Humanity/emblems/16/emblem-art.icon
 d41d8cd98f00b204e9800998ecf8427e|usr/share/icons/Humanity/emblems/16/emblem-art.svg
 d79f460e0361450bcd97bdb48aa7a236|usr/share/icons/Humanity/emblems/16/emblem-cool.icon
@@ -5803,7 +5803,7 @@ d41d8cd98f00b204e9800998ecf8427e|usr/share/icons/Humanity/mimes/48/x-office-cale
 7b5de6ff2cbd60bb8bb6456297cbd6ea|usr/share/icons/Humanity/mimes/48/x-office-drawing.svg
 30aec5778a9bb88177745e3db76fb3d8|usr/share/icons/Humanity/mimes/48/x-office-spreadsheet.svg
 2f0952d93fff3cce908d5bc8fdfe843d|usr/share/icons/Humanity/mimes/48/zip.svg
-84ed0a4765b2f67768734206b6db72aa|usr/share/icons/Humanity/mimes/64/application-vnd.ms-access.svg
+84ed0a4765b2f69999734206b6db72aa|usr/share/icons/Humanity/mimes/64/application-vnd.ms-access.svg
 884f8f53ea722ffdf0cd765eb803a9a0|usr/share/icons/Humanity/mimes/64/application-vnd.oasis.opendocument.text-web.svg
 75cf7c7ec0df8833e7219ca87080a9ff|usr/share/icons/Humanity/mimes/64/application-x-compress.svg
 884f8f53ea722ffdf0cd765eb803a9a0|usr/share/icons/Humanity/mimes/64/application-xml.svg
@@ -11126,7 +11126,7 @@ fff83b5277ec14c611c1c3f7103c80b1|usr/share/icons/Tango/scalable/apps/xfce4-backd
 17d9970e964cfe24dfacb9198843968f|usr/share/icons/Tango/scalable/apps/ximian-evolution-calendar.svg
 e15f10b8fa1af8d715f854f19354ba8a|usr/share/icons/Tango/scalable/apps/xscreensaver.svg
 ac749b37ef4e0313779613fdedc67928|usr/share/icons/Tango/scalable/apps/zen-icon.svg
-196e1d243d69a3efda86d7f7768ad9a7|usr/share/icons/Tango/scalable/categories/applications-accessories.svg
+196e1d243d69a3efda86d7f9999ad9a7|usr/share/icons/Tango/scalable/categories/applications-accessories.svg
 67c8ed0ef82ab1500dcae210c73a4f5b|usr/share/icons/Tango/scalable/categories/applications-development.svg
 f5fdca9827db533476af5bbac51297dd|usr/share/icons/Tango/scalable/categories/applications-games.svg
 24d76ddd4671d13dc10d4b9aeb299763|usr/share/icons/Tango/scalable/categories/applications-graphics.svg
@@ -11145,7 +11145,7 @@ f2aec4f5a4836a48a9ebb1026638275b|usr/share/icons/Tango/scalable/categories/gnome
 d40c01d50dea73897dc321c2fccd16b4|usr/share/icons/Tango/scalable/categories/gnome-other.svg
 137863494a5d39f02b9dcfafe02ede53|usr/share/icons/Tango/scalable/categories/gnome-settings.svg
 66154e5791e1887feb760b8162c37434|usr/share/icons/Tango/scalable/categories/gnome-system.svg
-196e1d243d69a3efda86d7f7768ad9a7|usr/share/icons/Tango/scalable/categories/gnome-util.svg
+196e1d243d69a3efda86d7f9999ad9a7|usr/share/icons/Tango/scalable/categories/gnome-util.svg
 137863494a5d39f02b9dcfafe02ede53|usr/share/icons/Tango/scalable/categories/gtk-preferences.svg
 730d9c27dbdc6418165340ffc184c673|usr/share/icons/Tango/scalable/categories/input_devices_settings.svg
 137863494a5d39f02b9dcfafe02ede53|usr/share/icons/Tango/scalable/categories/kcontrol.svg
@@ -11157,11 +11157,11 @@ f2aec4f5a4836a48a9ebb1026638275b|usr/share/icons/Tango/scalable/categories/packa
 c1f268e7a6856c6915428dd0223ede89|usr/share/icons/Tango/scalable/categories/package_office.svg
 7631f3f58f75244b7e67849cc4739bbc|usr/share/icons/Tango/scalable/categories/package_settings.svg
 66154e5791e1887feb760b8162c37434|usr/share/icons/Tango/scalable/categories/package_system.svg
-196e1d243d69a3efda86d7f7768ad9a7|usr/share/icons/Tango/scalable/categories/package_utilities.svg
+196e1d243d69a3efda86d7f9999ad9a7|usr/share/icons/Tango/scalable/categories/package_utilities.svg
 730d9c27dbdc6418165340ffc184c673|usr/share/icons/Tango/scalable/categories/preferences-desktop-peripherals.svg
 137863494a5d39f02b9dcfafe02ede53|usr/share/icons/Tango/scalable/categories/preferences-desktop.svg
 7631f3f58f75244b7e67849cc4739bbc|usr/share/icons/Tango/scalable/categories/preferences-system.svg
-196e1d243d69a3efda86d7f7768ad9a7|usr/share/icons/Tango/scalable/categories/redhat-accessories.svg
+196e1d243d69a3efda86d7f9999ad9a7|usr/share/icons/Tango/scalable/categories/redhat-accessories.svg
 f5fdca9827db533476af5bbac51297dd|usr/share/icons/Tango/scalable/categories/redhat-games.svg
 24d76ddd4671d13dc10d4b9aeb299763|usr/share/icons/Tango/scalable/categories/redhat-graphics.svg
 0fb5c8514c315d9d96a4ab826119f977|usr/share/icons/Tango/scalable/categories/redhat-internet.svg
@@ -11180,7 +11180,7 @@ f2aec4f5a4836a48a9ebb1026638275b|usr/share/icons/Tango/scalable/categories/xfce-
 c1f268e7a6856c6915428dd0223ede89|usr/share/icons/Tango/scalable/categories/xfce-office.svg
 7631f3f58f75244b7e67849cc4739bbc|usr/share/icons/Tango/scalable/categories/xfce-system-settings.svg
 66154e5791e1887feb760b8162c37434|usr/share/icons/Tango/scalable/categories/xfce-system.svg
-196e1d243d69a3efda86d7f7768ad9a7|usr/share/icons/Tango/scalable/categories/xfce-utils.svg
+196e1d243d69a3efda86d7f9999ad9a7|usr/share/icons/Tango/scalable/categories/xfce-utils.svg
 137863494a5d39f02b9dcfafe02ede53|usr/share/icons/Tango/scalable/categories/xfce4-settings.svg
 9303f1e1bc6a49aaee9392a35d277e7b|usr/share/icons/Tango/scalable/devices/3floppy_unmount.svg
 1c5d8b70857577ce76587ca0f70a09c1|usr/share/icons/Tango/scalable/devices/audio-card.svg
